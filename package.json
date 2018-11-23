@@ -1,0 +1,29 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "JS with TDD",
+  "main": "index.js",
+  "dependencies": {
+    "gitignore": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelbertelli/js-with-tdd.git"
+  },
+  "keywords": [
+    "JS",
+    "TDD",
+    "Test",
+    "Travis"
+  ],
+  "author": "Rafael Borges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelbertelli/js-with-tdd/issues"
+  },
+  "homepage": "https://github.com/rafaelbertelli/js-with-tdd#readme"
+}
