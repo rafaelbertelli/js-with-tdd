@@ -4,4 +4,4 @@ function sum(a, b) {
 sum(2, 2);
 
 aa = 3;
-var b = 5;
+var b = 5

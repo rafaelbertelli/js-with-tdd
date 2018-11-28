@@ -31,9 +31,15 @@ Copy 'n paste desired license from [Open Source Initiative](https://opensource.o
 
 ## ESLint
 
-Follow the docs install and usage from [ESLint](https://eslint.org/docs/user-guide/getting-started)
-and install ESLint pluging to VSCode
+Follow the docs install from [ESLint](https://eslint.org/docs/user-guide/getting-started) and install ESLint pluging to VSCode
 
 Use ```./node_modules/.bin/eslint src/*.js``` to se link works
 
 -----------
+
+ ## EditorConfig
+
+ Follow the docs install from [EditorConfig](https://editorconfig.org/) and install editorConfig pluging to VSCode
+
+-----------
+
