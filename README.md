@@ -43,3 +43,8 @@ Use ```./node_modules/.bin/eslint src/*.js``` to se link works
 
 -----------
 
+## Husk
+
+[Husk](https://github.com/typicode/husky) is a git hook. It verify your code on git commands
+
+-----------
