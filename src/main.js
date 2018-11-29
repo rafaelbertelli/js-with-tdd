@@ -3,5 +3,7 @@ function sum(a, b) {
 }
 sum(2, 2);
 
-aa = 3;
-var b = 5
+const aa = 3;
+const b = 5;
+
+console.log(aa + b);
